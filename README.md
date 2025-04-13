@@ -38,7 +38,7 @@ Here are some screenshots of **City Care** in action!
 ![Home Page](https://res.cloudinary.com/dub7qyv8e/image/upload/v1744526879/s6vsbebh0ttm8w2krfid.png)  
 *City Care's homepage with the symptom checker and AI-generated health report.*
 
-![Symptom Checker](https://your-image-link2.com)  
+![Symptom Checker](https://res.cloudinary.com/dub7qyv8e/image/upload/v1744527201/gnhborlblzvhwadsi1km.png)  
 *Track your symptoms and get health insights powered by AI.*
 
 ![Bed Availability](https://your-image-link3.com)  
