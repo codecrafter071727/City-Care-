@@ -41,7 +41,7 @@ Here are some screenshots of **City Care** in action!
 ![Symptom Checker](https://res.cloudinary.com/dub7qyv8e/image/upload/v1744527201/gnhborlblzvhwadsi1km.png)  
 *Track your symptoms and get health insights powered by AI.*
 
-![Bed Availability](https://your-image-link3.com)  
+![Bed Availability](https://res.cloudinary.com/dub7qyv8e/image/upload/v1744527333/jgle6xixmatajxfuuxbl.png)  
 *Real-time bed availability in nearby hospitals to avoid critical delays.*
 
 ---
