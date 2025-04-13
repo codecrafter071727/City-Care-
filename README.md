@@ -35,7 +35,7 @@
 
 Here are some screenshots of **City Care** in action!
 
-![Home Page](https://your-image-link1.com)  
+![Home Page](https://res.cloudinary.com/dub7qyv8e/image/upload/v1744526879/s6vsbebh0ttm8w2krfid.png)  
 *City Care's homepage with the symptom checker and AI-generated health report.*
 
 ![Symptom Checker](https://your-image-link2.com)  
